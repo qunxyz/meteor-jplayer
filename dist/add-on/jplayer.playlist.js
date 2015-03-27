@@ -22,7 +22,6 @@ var globalObj = this;
 
 	globalObj.jPlayerPlaylist = function(cssSelector, playlist, options) {
 		var self = this;
-		console.log(self);
 
 		this.current = 0;
 		this.loop = false; // Flag used with the jPlayer repeat event
