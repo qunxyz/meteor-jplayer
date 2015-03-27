@@ -16,11 +16,13 @@
  */
 
 /*global jPlayerPlaylist:true */
+var globalObj = this;
 
 (function($, undefined) {
 
-	window.jPlayerPlaylist = function(cssSelector, playlist, options) {
+	globalObj.jPlayerPlaylist = function(cssSelector, playlist, options) {
 		var self = this;
+		console.log(self);
 
 		this.current = 0;
 		this.loop = false; // Flag used with the jPlayer repeat event
@@ -142,7 +144,7 @@
 		$(this.cssSelector.jPlayer).jPlayer(this.options);
 	};
 
-	window.jPlayerPlaylist.prototype = {
+	globalObj.jPlayerPlaylist.prototype = {
 		_cssSelector: { // static object, instanced in constructor
 			jPlayer: "#jquery_jplayer_1",
 			cssSelectorAncestor: "#jp_container_1"
