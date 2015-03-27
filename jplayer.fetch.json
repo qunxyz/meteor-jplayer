@@ -1,90 +1,90 @@
 [
     {
         "file": "jplayer/jquery.jplayer.min.js",
-        "url": "http://jplayer.org/latest/dist/jplayer/jquery.jplayer.min.js"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/jplayer/jquery.jplayer.min.js"
     },
     {
         "file": "jplayer/jquery.jplayer.swf",
-        "url": "http://jplayer.org/latest/dist/jplayer/jquery.jplayer.swf"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/jplayer/jquery.jplayer.swf"
     },
     {
         "file": "add-on/jplayer.playlist.min.js",
-        "url": "http://jplayer.org/latest/dist/add-on/jplayer.playlist.min.js"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/add-on/jplayer.playlist.js"
     },
     {
         "file": "add-on/jquery.jplayer.inspector.min.js",
-        "url": "http://jplayer.org/latest/dist/add-on/jquery.jplayer.inspector.min.js"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/add-on/jquery.jplayer.inspector.js"
     },
     {
         "file": "skin/blue.monday/css/jplayer.blue.monday.min.css",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/css/jplayer.blue.monday.min.css"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/css/jplayer.blue.monday.min.css"
     },
     {
         "file": "skin/blue.monday/image/jplayer.blue.monday.jpg",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/image/jplayer.blue.monday.jpg"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/image/jplayer.blue.monday.jpg"
     },
     {
         "file": "skin/blue.monday/image/jplayer.blue.monday.seeking.gif",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/image/jplayer.blue.monday.seeking.gif"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/image/jplayer.blue.monday.seeking.gif"
     },
     {
         "file": "skin/blue.monday/image/jplayer.blue.monday.video.play.png",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/image/jplayer.blue.monday.video.play.png"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/image/jplayer.blue.monday.video.play.png"
     },
     {
         "file": "skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html"
     },
     {
         "file": "skin/blue.monday/mustache/jplayer.blue.monday.audio.single.html",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.single.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.single.html"
     },
     {
         "file": "skin/blue.monday/mustache/jplayer.blue.monday.audio.stream.html",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.stream.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.stream.html"
     },
     {
         "file": "skin/blue.monday/mustache/jplayer.blue.monday.video.playlist.html",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/mustache/jplayer.blue.monday.video.playlist.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/mustache/jplayer.blue.monday.video.playlist.html"
     },
     {
         "file": "skin/blue.monday/mustache/jplayer.blue.monday.video.single.html",
-        "url": "http://jplayer.org/latest/dist/skin/blue.monday/mustache/jplayer.blue.monday.video.single.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/blue.monday/mustache/jplayer.blue.monday.video.single.html"
     },
     {
         "file": "skin/pink.flag/css/jplayer.pink.flag.min.css",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/css/jplayer.pink.flag.min.css"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/css/jplayer.pink.flag.min.css"
     },
     {
         "file": "skin/pink.flag/image/jplayer.pink.flag.jpg",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/image/jplayer.pink.flag.jpg"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/image/jplayer.pink.flag.jpg"
     },
     {
         "file": "skin/pink.flag/image/jplayer.pink.flag.seeking.gif",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/image/jplayer.pink.flag.seeking.gif"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/image/jplayer.pink.flag.seeking.gif"
     },
     {
         "file": "skin/pink.flag/image/jplayer.pink.flag.video.play.png",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/image/jplayer.pink.flag.video.play.png"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/image/jplayer.pink.flag.video.play.png"
     },
     {
         "file": "skin/pink.flag/mustache/jplayer.pink.flag.audio.playlist.html",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.playlist.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.playlist.html"
     },
     {
         "file": "skin/pink.flag/mustache/jplayer.pink.flag.audio.single.html",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.single.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.single.html"
     },
     {
         "file": "skin/pink.flag/mustache/jplayer.pink.flag.audio.stream.html",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.stream.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.stream.html"
     },
     {
         "file": "skin/pink.flag/mustache/jplayer.pink.flag.video.playlist.html",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/mustache/jplayer.pink.flag.video.playlist.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/mustache/jplayer.pink.flag.video.playlist.html"
     },
     {
         "file": "skin/pink.flag/mustache/jplayer.pink.flag.video.single.html",
-        "url": "http://jplayer.org/latest/dist/skin/pink.flag/mustache/jplayer.pink.flag.video.single.html"
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jplayer/master/dist/skin/pink.flag/mustache/jplayer.pink.flag.video.single.html"
     }
 ]
