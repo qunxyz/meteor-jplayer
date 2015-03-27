@@ -1,7 +1,7 @@
 Package.describe({
   name: "jackyqiu:meteor-jplayer",
   summary: "jPlayer is a jQuery/Zepto plugin for playing media",
-  version: "3.6.0",
+  version: "2.9.2",
   git: "https://github.com/qunxyz/meteor-jquery-nicescroll.git"
 });
 
