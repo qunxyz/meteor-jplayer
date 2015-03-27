@@ -19,7 +19,7 @@
 
 (function($, undefined) {
 
-	Window.jPlayerPlaylist = function(cssSelector, playlist, options) {
+	window.jPlayerPlaylist = function(cssSelector, playlist, options) {
 		var self = this;
 
 		this.current = 0;
@@ -142,7 +142,7 @@
 		$(this.cssSelector.jPlayer).jPlayer(this.options);
 	};
 
-	Window.jPlayerPlaylist.prototype = {
+	window.jPlayerPlaylist.prototype = {
 		_cssSelector: { // static object, instanced in constructor
 			jPlayer: "#jquery_jplayer_1",
 			cssSelectorAncestor: "#jp_container_1"
